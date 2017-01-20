@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="NavigationBar">
+        <attr name="textColor" format="color"/>
+        <attr name="backgroundColorNormal" format="color"/>
+        <attr name="backgroundColorTouch" format="color"/>
+        <attr name="android:padding"/>
+        <attr name="android:paddingLeft"/>
+        <attr name="android:paddingTop"/>
+        <attr name="android:paddingRight"/>
+        <attr name="android:paddingBottom"/>
+    </declare-styleable>
+</resources>
